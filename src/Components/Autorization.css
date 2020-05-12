@@ -1,0 +1,21 @@
+.login-form {
+    width: 300px;
+    position: absolute;
+    padding: 30px;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    background-color: white;
+  }
+  .login-form-forgot {
+    margin-left: 70px;
+  }
+  .ant-col-rtl {
+    color: black;
+  }
+  .login-form-button {
+    width: 100%;
+  }
